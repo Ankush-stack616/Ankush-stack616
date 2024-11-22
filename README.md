@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/MY_PHOTO.png" alt="Profile Picture" style="border-radius:50%">
+
+
+  <img src="https://dl.dropboxusercontent.com/scl/fi/kc87tvx2vrr3hs28tn880/MY_PHOTO.png?rlkey=k22lb5pu67ooss8zot180rkhl&st=3p0511zz&dl=0" alt="Profile Picture" widht = "150" height = "150" style="border-radius:100%">
   <h1>👋 Hi, I'm Ankush!</h1>
   <p>I'm passionate about learning, coding, and building projects that solve real-world problems. My focus areas include frontend web development, Python programming, and exploring concepts in cybersecurity.</p>
 </div>
