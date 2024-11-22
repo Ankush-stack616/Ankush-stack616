@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="#" alt="Profile Picture" style="border-radius:50%">
+  <img src="assets/MY_PHOTO.png" alt="Profile Picture" style="border-radius:50%">
   <h1>👋 Hi, I'm Ankush!</h1>
   <p>I'm passionate about learning, coding, and building projects that solve real-world problems. My focus areas include frontend web development, Python programming, and exploring concepts in cybersecurity.</p>
 </div>
