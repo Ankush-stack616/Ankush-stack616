@@ -1,74 +1,70 @@
-👋 Hi, I'm Ankush!
+<div align="center">
+  <img src="#" alt="Profile Picture" style="border-radius:50%">
+  <h1>👋 Hi, I'm Ankush!</h1>
+  <p>I'm passionate about learning, coding, and building projects that solve real-world problems. My focus areas include frontend web development, Python programming, and exploring concepts in cybersecurity.</p>
+</div>
 
-Welcome to my GitHub profile! I'm passionate about learning, coding, and building projects that solve real-world problems. My focus areas include frontend web development, Python programming, and exploring concepts in cybersecurity.
+---
 
-🚀 About Me
+## 🌟 About Me
+- 🎓 **Currently Learning**: Enhancing my skills in JavaScript frameworks, Node.js, and backend technologies.
+- 💻 **Hackathon Enthusiast**: Love collaborating to develop innovative solutions and learn from peers.
+- 🌐 **Tech Explorer**: Focused on creating dynamic, user-friendly web interfaces.
+- 🔒 **Cybersecurity Aspirant**: Curious about protecting systems and data.
 
-💻 Hackathon Enthusiast: I enjoy collaborating in hackathons to develop innovative solutions and learn from peers.
+---
 
-🎓 Lifelong Learner: Currently enhancing my skills in JavaScript frameworks, Node.js, and backend technologies.
+## 📱 Socials:
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-🌐 Tech Explorer: Interested in creating dynamic and user-friendly web interfaces.
+---
 
-🔒 Cybersecurity Aspirant: Always curious about protecting systems and data.
+## 🛠️ Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</div>
 
+---
 
+## 📂 Featured Projects:
+1. **Frontend Web Development Portfolio**  
+   A showcase of creative and interactive web pages.  
+   ➡️ [View Project Here](#)
 
-🔧 Tech Skills
+2. **To-Do List Application**  
+   A responsive and minimalist to-do list built using HTML, CSS, and JavaScript.  
+   ➡️ [View Project Here](#)
 
+3. **Hackathon Submissions**  
+   Exciting projects developed during hackathons, focusing on problem-solving and teamwork.  
+   ➡️ [View Project Here](#)
 
-Programming Languages
+---
 
-Python (Basics & Project Work)
+## 🎯 Goals:
+- 🌟 Master advanced concepts in full-stack development.
+- 🌟 Gain practical experience in cybersecurity practices.
+- 🌟 Collaborate on open-source projects to contribute to the community.
 
-JavaScript (Frontend and Backend)
+---
 
-HTML/CSS (Web Development)
-
-Tools & Technologies
-
-Node.js
-
-Git/GitHub
-
-VS Code
-
-
-📂 Featured Projects
-
-1. Frontend Web Development Portfolio
-A showcase of creative and interactive web pages.
-
-➡️ View Project Here
-
-3. To-Do List Application
-A responsive and minimalist to-do list built using HTML, CSS, and JavaScript.
-
-➡️ View Project Here
-
-5. Hackathon Submissions
-Exciting projects developed during hackathons, focusing on problem-solving and teamwork.
-
-➡️ View Project Here
-
-🎯 Goals
-
-Master advanced concepts in full-stack development.
-
-Gain practical experience in cybersecurity practices.
-
-Collaborate on open-source projects to contribute to the community.
+## 🎉 Fun Fact:
+I once debugged an error for 8 hours straight only to realize I missed a semicolon! 😅
 
 
-📫 Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/ankush-shakya-29b935285/
-
-Email: ankushshakya1221@gmail.com
-
-Portfolio Website: http://127.0.0.1:5503/Portfolio_website.html
-
-⭐ Fun Fact: Did you know the first "computer bug" was a real moth stuck in a Harvard Mark II computer in 1947? Debugging has come a long way since then, but the name stuck! Let's keep solving bugs and building cool things! 😊
 
 
 
